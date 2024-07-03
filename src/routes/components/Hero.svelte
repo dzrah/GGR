@@ -4,7 +4,7 @@
 </script>
 
 <div
-	class="flex h-svh min-h-screen flex-1 items-center justify-center bg-[hero] bg-cover bg-[left] md:bg-[center_left] lg:justify-end"
+	class="bg-hero flex h-svh min-h-screen flex-1 items-center justify-center bg-cover bg-[left] md:bg-[center_left] lg:justify-end"
 >
 	<div class="m-0 flex flex-col items-center justify-center md:mr-0 lg:mr-64">
 		<a href="http://www.bayanat.ai">
