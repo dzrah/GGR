@@ -5,6 +5,9 @@ export default {
 		extend: {
 			colors: {
 				'bayanat-blue': '#002cc4'
+			},
+			backgroundImage: {
+				hero: "url('Hero.jpg')"
 			}
 		}
 	},
