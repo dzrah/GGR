@@ -7,7 +7,7 @@ export default {
 				'bayanat-blue': '#002cc4'
 			},
 			backgroundImage: {
-				hero: "url('Hero.jpg')"
+				hero: "url('./Hero.jpg')"
 			}
 		}
 	},
