@@ -14,11 +14,23 @@
 		"@sveltejs/adapter-auto": "^3.0.0",
 		"@sveltejs/kit": "^2.0.0",
 		"@sveltejs/vite-plugin-svelte": "^3.0.0",
-		"prettier": "^3.1.1",
+		"autoprefixer": "^10.4.19",
+		"lottie-web": "^5.12.2",
+		"postcss": "^8.4.38",
+		"prettier": "^3.2.5",
 		"prettier-plugin-svelte": "^3.1.2",
+		"prettier-plugin-tailwindcss": "^0.5.14",
 		"svelte": "^4.2.7",
+		"tailwindcss": "^3.4.3",
 		"vite": "^5.0.3",
 		"vitest": "^1.2.0"
 	},
-	"type": "module"
+	"type": "module",
+	"dependencies": {
+		"@fontsource-variable/montserrat": "^5.0.19",
+		"@lottiefiles/svelte-lottie-player": "^0.3.1",
+		"@studio-freight/lenis": "^1.0.42",
+		"gsap": "^3.12.5",
+		"lenis": "^1.1.2"
+	}
 }
